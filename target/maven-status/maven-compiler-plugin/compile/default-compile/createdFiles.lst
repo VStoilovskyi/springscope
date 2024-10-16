@@ -1,0 +1,7 @@
+org/example/Main.class
+org/springscope/auth/HasPermissionAspect.class
+org/springscope/scope/ScopeExtractor.class
+org/springscope/scope/DefaultHeaderBasedScopeExtractor.class
+org/springscope/auth/HasPermission.class
+org/springscope/SpringScopeAutoConfiguration.class
+org/springscope/SpringScopeRegistrar.class

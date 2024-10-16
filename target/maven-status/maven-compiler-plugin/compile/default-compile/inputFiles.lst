@@ -1,0 +1,7 @@
+/Users/vadymstoilovskyi/IdeaProjects/vstoi/fresta/spring-scope/src/main/java/org/springscope/Main.java
+/Users/vadymstoilovskyi/IdeaProjects/vstoi/fresta/spring-scope/src/main/java/org/springscope/SpringScopeAutoConfiguration.java
+/Users/vadymstoilovskyi/IdeaProjects/vstoi/fresta/spring-scope/src/main/java/org/springscope/SpringScopeRegistrar.java
+/Users/vadymstoilovskyi/IdeaProjects/vstoi/fresta/spring-scope/src/main/java/org/springscope/auth/HasPermission.java
+/Users/vadymstoilovskyi/IdeaProjects/vstoi/fresta/spring-scope/src/main/java/org/springscope/auth/HasPermissionAspect.java
+/Users/vadymstoilovskyi/IdeaProjects/vstoi/fresta/spring-scope/src/main/java/org/springscope/scope/DefaultHeaderBasedScopeExtractor.java
+/Users/vadymstoilovskyi/IdeaProjects/vstoi/fresta/spring-scope/src/main/java/org/springscope/scope/ScopeExtractor.java
